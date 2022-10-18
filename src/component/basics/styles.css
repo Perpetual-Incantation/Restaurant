@@ -213,3 +213,16 @@ html {
   opacity: 1;
   transform: translatey(-2px);
 }
+h1 {
+  text-shadow: 2px 2px 5px rgb(232, 213, 45);
+  padding: 10px;
+  padding-top: 30px;
+  text-indent: 100px;
+  letter-spacing: 5px;
+  font-family: monospace;
+
+font-size: 50px;
+  word-spacing: 10px;
+
+
+}
